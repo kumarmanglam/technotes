@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "3a47a6ca5cc5f9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfbd5325c74b6a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017570fa895de8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FoxAI Project/1. Pilot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6d1a8d4fbac4786",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ac167d0bd99baaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad06b8adfebbac9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5021d98f1cc186e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "key",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c788b9bbeeb75ffb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "06ae113a6ff05ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b302ba0dcc922d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f62f08e330a4577",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FoxAI Project/1. Pilot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d450368b96f1ceb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FoxAI Project/1. Pilot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01eac0884f31ea8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d5134ef2a75ac6a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FoxAI Project/1. Pilot.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ad06b8adfebbac9a",
+  "lastOpenFiles": [
+    "FoxAI Project/3. v2.md",
+    "FoxAI Project/2. Search your PDF.md",
+    "FoxAI Project/1. Pilot.md",
+    "FoxAI Project/Frontend/1. Getting started.md",
+    "FoxAI Project/Frontend",
+    "MongoDB/2. replication and sharding.md",
+    "MongoDB/1. Pilot.md",
+    "Untitled 5.md",
+    "Angular/7. Call functions.md",
+    "Node-js-Backend/36. pug.md",
+    "Angular/Angular training.md",
+    "Node-js-Backend/45. Send Grid for mailing.md",
+    "Angular/1. Angular session.md",
+    "Angular/1. Important Questions.md",
+    "Angular/2. Imp Commands.md",
+    "Angular/4. Components.md",
+    "NodeJs_Expressjs/1. Intro.md",
+    "Utility.md",
+    "KM passwords.md",
+    "Pasted image 20240914111150.png",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Food Sheet.md",
+    "BookBeacon/flow.md",
+    "BookBeacon/API planning.md",
+    "Node JS.zip",
+    "Untitled",
+    "Node-js-Backend",
+    "Node JS",
+    "NodeJs_Expressjs",
+    "FoxAI Project/FoxAI gist",
+    "BookBeacon",
+    "FoxAI Project/Backend",
+    "Git and Github",
+    "Angular/firstproject/node_modules/karma-jasmine/node_modules/jasmine-core/images/jasmine_favicon.png",
+    "Angular/firstproject/node_modules/karma-jasmine/node_modules/jasmine-core/images/jasmine-horizontal.svg",
+    "Angular/firstproject/node_modules/karma-jasmine/node_modules/jasmine-core/images/jasmine-horizontal.png",
+    "Angular/firstproject/node_modules/resolve-url-loader/docs/detailed-problem.svg",
+    "Angular/firstproject/node_modules/resolve-url-loader/docs/basic-problem.svg",
+    "Angular/firstproject/node_modules/ordered-binary/assets/powers-dre.png",
+    "Angular/firstproject/node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
+    "Angular/firstproject/node_modules/xhr2/test/fixtures/xhr2.png",
+    "Angular/firstproject/node_modules/serve-index/public/icons/page_world.png"
+  ]
+}
