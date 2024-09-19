@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoxAI Project/1. Pilot.md",
+                "file": "Angular/1. Important Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "right": {
     "id": "06ae113a6ff05ed6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FoxAI Project/1. Pilot.md",
+                "file": "Angular/1. Important Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FoxAI Project/1. Pilot.md",
+                "file": "Angular/1. Important Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FoxAI Project/1. Pilot.md"
+                "file": "Angular/1. Important Questions.md"
               }
             }
           }
@@ -149,9 +149,15 @@
   },
   "active": "ad06b8adfebbac9a",
   "lastOpenFiles": [
+    "Angular/1. Angular session.md",
+    "Python/1. Pilot.md",
+    "Angular/1. Important Questions.md",
+    "Python/FastAPI/1. Pilot.md",
+    "Python/FastAPI",
+    "FoxAI Project/1. Pilot.md",
+    "Python",
     "FoxAI Project/3. v2.md",
     "FoxAI Project/2. Search your PDF.md",
-    "FoxAI Project/1. Pilot.md",
     "FoxAI Project/Frontend/1. Getting started.md",
     "FoxAI Project/Frontend",
     "MongoDB/2. replication and sharding.md",
@@ -161,8 +167,6 @@
     "Node-js-Backend/36. pug.md",
     "Angular/Angular training.md",
     "Node-js-Backend/45. Send Grid for mailing.md",
-    "Angular/1. Angular session.md",
-    "Angular/1. Important Questions.md",
     "Angular/2. Imp Commands.md",
     "Angular/4. Components.md",
     "NodeJs_Expressjs/1. Intro.md",
@@ -175,16 +179,13 @@
     "Untitled 1.md",
     "Food Sheet.md",
     "BookBeacon/flow.md",
-    "BookBeacon/API planning.md",
     "Node JS.zip",
-    "Untitled",
     "Node-js-Backend",
     "Node JS",
     "NodeJs_Expressjs",
     "FoxAI Project/FoxAI gist",
     "BookBeacon",
     "FoxAI Project/Backend",
-    "Git and Github",
     "Angular/firstproject/node_modules/karma-jasmine/node_modules/jasmine-core/images/jasmine_favicon.png",
     "Angular/firstproject/node_modules/karma-jasmine/node_modules/jasmine-core/images/jasmine-horizontal.svg",
     "Angular/firstproject/node_modules/karma-jasmine/node_modules/jasmine-core/images/jasmine-horizontal.png",
